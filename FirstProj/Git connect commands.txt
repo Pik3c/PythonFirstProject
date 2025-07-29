@@ -1,0 +1,4 @@
+git config --global user.name "Pik3c"
+git config --global user.email  venacc88@gmail.com
+cd c:\Documents\Code\Python\FirstProj
+git remote add origin https://github.com/Pik3c/PythonFirstProject.git
